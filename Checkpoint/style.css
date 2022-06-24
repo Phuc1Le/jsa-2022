@@ -1,0 +1,14 @@
+.b2{
+    width: 30px;
+    height: 50px;
+    background-color: red;
+}
+.b2:hover{
+    background-color: aqua;
+}
+#clock{
+    background-color: burlywood;
+    margin-right: 300px;
+ 
+    font-size: 80px;
+}
